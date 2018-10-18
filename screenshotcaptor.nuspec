@@ -8,7 +8,7 @@
     <owners>Absoblogginlutely</owners>
     <licenseUrl>https://github.com/Absoblogginlutely/Chocolatey-Screenshotcaptor/blob/master/Eula.txt</licenseUrl>
     <projectUrl>https://www.donationcoder.com/software/mouser/popular-apps/screenshot-captor</projectUrl>
-    <iconUrl>https://github.com/Absoblogginlutely/Chocolatey-Screenshotcaptor/blob/master/icon.png</iconUrl>
+    <iconUrl>https://github.com/Absoblogginlutely/Chocolatey-Screenshotcaptor/raw/master/icon.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Portable Version of Screenshot Captor.
     This is a best-in-class tool for grabbing, manipulating, annotating, and sharing screenshots. It's different from other screenshot utilities in several notable ways:
