@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>screenshotcaptor</id>
+    <version>4.29.0</version>
+    <title>Screenshot Captor</title>
+    <authors>DonationCoder</authors>
+    <owners>Absoblogginlutely</owners>
+    <licenseUrl>https://github.com/Absoblogginlutely/Chocolatey-Screenshotcaptor/Eula.txt</licenseUrl>
+    <projectUrl>https://www.donationcoder.com/software/mouser/popular-apps/screenshot-captor</projectUrl>
+    <iconUrl>https://github.com/Absoblogginlutely/Chocolatey-Screenshotcaptor/icon.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Portable Version of Screenshot Captor.
+    This is a best-in-class tool for grabbing, manipulating, annotating, and sharing screenshots. It's different from other screenshot utilities in several notable ways:
+
+Optimized for taking lots of screenshots with minimal intervention; stays out of your way until you need it.
+Super easy to add and edit callout arrows and text boxes.
+Easy automatic or on-demand uploading of screenshots to image hosting services; easy emailing of screenshots to your friends and colleagues.
+Take snapshots from webcams; record video with the ESR addon.
+New optional quick-capture docking bar and post-capture action dialog.
+Full set of scanner acquisition tools and scanner image correction.
+Perfect capture of Windows 7 partial transparency effects.
+The most powerful scrolling capture tool in the field.
+Great special effects, including automatic active window enhancement, ragged edge splicing, pixelation, smart text removal, and many more.
+Smart autonaming of files, easy renaming and format conversion; automatic image file versioning.
+Ability to embed textual comments in files or add attractive captions to images and printouts.
+Unsurpassed multi-monitor support and lots of capture modes: Multimon (multiple monitors), Desktop, Active Window, Region, Windows Object, Scrolling Capture. Each mode has a customizable hotkey for quick access.
+Unsurpassed support for 3rd party user configurable tools, including file browsers and image editors; extend the program to do whatever you need by interfacing it with other programs.
+Sidebar thumbnail file browser provides full shell operations, drag and drop support, and right-click actions on screenshots.
+Deluxe thumbnail maker and watermarker.</description>
+    <summary>Screenshot Captor is a best-in-class tool for grabbing, manipulating, annotating, and sharing screenshots.</summary>
+    <releaseNotes>See https://www.donationcoder.com/Software/Mouser/screenshotcaptor/help/index.html</releaseNotes>
+    <tags>Screenshot Captor donationcoder Mouser</tags>
+    <packageSourceUrl>https://github.com/Absoblogginlutely/Chocolatey-Screenshotcaptor</packageSourceUrl>
+  </metadata>
+</package>
