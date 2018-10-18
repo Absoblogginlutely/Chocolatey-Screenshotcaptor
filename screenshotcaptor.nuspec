@@ -10,7 +10,7 @@
     <projectUrl>https://www.donationcoder.com/software/mouser/popular-apps/screenshot-captor</projectUrl>
     <iconUrl>https://github.com/Absoblogginlutely/Chocolatey-Screenshotcaptor/raw/master/icon.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>Portable Version of Screenshot Captor.
+    <description>Installed Version of Screenshot Captor.
     This is a best-in-class tool for grabbing, manipulating, annotating, and sharing screenshots. It's different from other screenshot utilities in several notable ways:
 
 Optimized for taking lots of screenshots with minimal intervention; stays out of your way until you need it.
