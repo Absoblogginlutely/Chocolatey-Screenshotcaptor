@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>screenshotcaptor</id>
-    <version>4.29.0</version>
+    <version>5.0.0.2018040200</version>
     <title>Screenshot Captor</title>
     <authors>DonationCoder</authors>
     <owners>Absoblogginlutely</owners>
@@ -11,6 +11,7 @@
     <iconUrl>https://github.com/Absoblogginlutely/Chocolatey-Screenshotcaptor/raw/master/icon.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Installed Version of Screenshot Captor.
+    Version numbers are now dated to match release date on Donationcoder website.
     This is a best-in-class tool for grabbing, manipulating, annotating, and sharing screenshots. It's different from other screenshot utilities in several notable ways:
 
 Optimized for taking lots of screenshots with minimal intervention; stays out of your way until you need it.
