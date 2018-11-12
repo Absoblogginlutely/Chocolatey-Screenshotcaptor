@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>screenshotcaptor</id>
-    <version>5.0.0.2018040200</version>
+    <version>5.0.0.2018040201</version>
     <title>Screenshot Captor</title>
     <authors>DonationCoder</authors>
     <owners>Absoblogginlutely</owners>
