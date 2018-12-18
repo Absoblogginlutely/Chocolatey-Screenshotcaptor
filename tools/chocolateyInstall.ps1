@@ -1,6 +1,6 @@
 $url = 'http://www.donationcoder.com/Software/Mouser/screenshotcaptor/downloads/ScreenshotCaptorSetup.exe'
 $packageName = 'screenshotcaptor'
-$checkSum = "E6DD2CC656E32F8CC77031C2D993F38C45C087CF56EB592484D9836C71DF8498"
+$checkSum = "2EE009E994F748A2C327C768184ADE755A82A1AD0BDD4F8A522CE0A73EF71062"
 $packageArgs=@{
 	packageName = $packageName
 	installerType = 'EXE'
