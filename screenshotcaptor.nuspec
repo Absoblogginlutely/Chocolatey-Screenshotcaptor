@@ -11,7 +11,7 @@
     <projectUrl>https://www.donationcoder.com/software/mouser/popular-apps/screenshot-captor</projectUrl>
     <docsUrl>https://www.donationcoder.com/Software/Mouser/screenshotcaptor/help/index.html</docsUrl>
     <mailingListUrl>https://www.donationcoder.com/forum/index.php?board=34</mailingListUrl>
-    <iconUrl>https://github.com/Absoblogginlutely/Chocolatey-Screenshotcaptor/raw/master/icon.png</iconUrl>
+    <iconUrl>https://cdn.jsdelivr.net/gh/Absoblogginlutely/Chocolatey-Screenshotcaptor/icon.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Installed Version of Screenshot Captor.
     Version numbers are now dated to match release date on Donationcoder website.
