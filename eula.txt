@@ -1,0 +1,47 @@
+COMMERCIAL SOFTWARE END USER LICENSE AGREEMENT (EULA) AND TERMS OF SERVICE
+
+This agreement is between DonationCoder.com (the Licensor) and the Licensee who has purchased a commercial license for a specific Software Product sold by DonationCoder.com.
+
+1. License
+
+DonationCoder.com hereby grants to Licensee the non-exclusive license to use the software as set forth in this Agreement, indefinitely. Licensee may use the software for any purpose, including the conduction of commercial business.
+
+2. Installation Restrictions
+
+A separate purchase order shall specify any limits on the number of simultaneous users or computer installations of the Software.
+
+3. Software Maintenance
+
+As long as this contract remains in effect, DonationCoder.com shall make available to Licensee any new, corrected or enhanced version of the Software as created by DonationCoder.com. Such enhancement shall include all modifications to the Software which increase the speed, efficiency or ease of use of the Software, or add additional capabilities or functionality to the Software product.
+
+4. Transfer Rights and Restrictions
+
+Licensee shall not sell or sub-license the Software, or transfer or convey the Software or any right in the Software to any other entity without the prior written consent of DonationCoder.com, with the following exceptions: If Licensee is merges with another entity, acquires another entity, is acquired by another entity, or is reorganized under a different entity name, the Licensee rights and restrictions outlined in this document may be transferred to the new entity without prior approval or notification of DonationCoder.com, as long as restrictions on the total number of simultaneous users or installations specified in the purchase order is respected at all times.
+
+5. Warranty of Title
+
+DonationCoder.com hereby represents and warrants to Licensee that DonationCoder.com is the owner of the Software or otherwise has the right to grant to Licensee the rights set forth in this Agreement. In the event any breach or threatened breach of the foregoing representation and warranty, Licensee's sole remedy shall be to require DonationCoder.com or to either: i) procure, at DonationCoder.com's expense, the right to use the Software, ii) replace the Software or any part thereof that is in breach and replace it with Software of comparable functionality that does not cause any breach, or iii) refund to Licensee the full amount of the license fee upon the return of the Software and all copies thereof to DonationCoder.com.
+
+6. Warranty Disclaimer
+
+DonationCoder.com's warranties set forth in this agreement are exclusive and are in lieu of all other warranties, express or implied, including but not limited to, the implied warranties of merchantability and fitness for a particular purpose.
+
+7. Limitation of Liability
+
+DonationCoder.com shall not be responsible for, and shall not pay, any amount of incidental, consequential or other indirect damages, whether based on lost revenue or otherwise, regardless of whether DonationCoder.com was advised of the possibility of such losses in advance. In no event shall DonationCoder.com's liability hereunder exceed the amount of license fees paid by Licensee regardless of whether Licensee claim is based on contract, tort, strict liability, product liability or otherwise.
+
+8. Final Agreement
+
+This agreement contains the entire agreement of the parties and there are no other promises or conditions in any other agreement whether oral or written. This agreement supersedes any prior written or oral agreement between parties.
+
+9. Amendment
+
+This agreement may be modified or amended if the amendment is made in writing and is signed by both parties.
+
+10. Waiver Of Contractual Rights
+
+The failure of either party to enforce any provision of this Agreement shall not be construed as a waiver of limitation of that party's right to subsequently enforce and compel strict compliance with every provision of this Agreement.
+
+11. Sever-ability
+
+If any provision of this Agreement shall be held to be invalid or unenforceable for any reason, the remaining provisions shall continue to be valid and enforceable. If a court finds that any provision of this Agreement is invalid of unenforceable, but that by limiting such provision it would become valid and enforceable, than such provision shall be deemed to be written, construed, and enforced as so limited.

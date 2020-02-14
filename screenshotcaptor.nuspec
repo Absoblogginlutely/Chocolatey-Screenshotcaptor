@@ -6,7 +6,7 @@
     <title>Screenshot Captor</title>
     <authors>DonationCoder</authors>
     <owners>Absoblogginlutely</owners>
-    <licenseUrl>https://github.com/Absoblogginlutely/Chocolatey-Screenshotcaptor/blob/master/Eula.txt</licenseUrl>
+    <licenseUrl>https://cdn.jsdelivr.net/gh/Absoblogginlutely/Chocolatey-Screenshotcaptor/eula.txt</licenseUrl>
     <packageSourceUrl>https://github.com/Absoblogginlutely/Chocolatey-Screenshotcaptor</packageSourceUrl>
     <projectUrl>https://www.donationcoder.com/software/mouser/popular-apps/screenshot-captor</projectUrl>
     <docsUrl>https://www.donationcoder.com/Software/Mouser/screenshotcaptor/help/index.html</docsUrl>
